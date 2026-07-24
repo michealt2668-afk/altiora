@@ -57,6 +57,9 @@ export const metadata: Metadata = {
       },
     ],
   },
+  verification: {
+    google: 'XViPPF03J_gxNfoF7IL5W3TxH7InSalrtzDGSAZCK2U',
+  },
   twitter: {
     card: 'summary_large_image',
     title: 'Altiora Digital Services | Cybersecurity Consulting',
